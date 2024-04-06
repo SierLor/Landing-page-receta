@@ -166,7 +166,7 @@ hr{
 }
 
 
-@media (min-width:970px){
+@media (min-width:1140px){
    body{
     background-color: var(--Eggshell);
    }
@@ -184,7 +184,7 @@ hr{
     width: 660px;
     position: absolute;
     margin: 60px;
-    margin-left: 610px;
+    margin-left: 230px;
     margin-top: 45px;
     z-index: 1;
     border-radius: 20px;
