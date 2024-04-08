@@ -31,16 +31,16 @@ body{
     width: 375px;
     margin: 0 auto;
     padding: 35px;
+    padding-top: 0;
     background-color: var(--White);
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .imagen{
     display: block;
     width: 375px;
     margin: 0 auto;
-    
-    
+    margin-bottom: 20px;
 }
 
 .txt__1{
@@ -173,21 +173,18 @@ hr{
    
    .main{
     width: 740px;
-    position: relative;
     margin-top: 100px;
-    padding-top: 385px;
     border-radius: 20px;
+    padding-top: 35px;
    }
 
    .imagen{
     display: inline-block;
     width: 660px;
-    position: absolute;
-    margin: 60px;
-    margin-left: 230px;
-    margin-top: 45px;
-    z-index: 1;
     border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 6px;
+    margin-top: 5px;
     }
 
     .txt__1{
